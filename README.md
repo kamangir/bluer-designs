@@ -1,1 +1,1 @@
-[bluer-sparrow](https://github.com/kamangir/bluer-ugv/tree/main/bluer_ugv/docs/bluer_sparrow) mechanical design
+[bluer-ugv](https://github.com/kamangir/bluer-ugv) mechanical design.
