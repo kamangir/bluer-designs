@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.91071353"
-     inkscape:cx="364.0003"
-     inkscape:cy="273.41199"
+     inkscape:zoom="1.011004"
+     inkscape:cx="363.50004"
+     inkscape:cy="240.35513"
      inkscape:window-width="1352"
      inkscape:window-height="815"
      inkscape:window-x="0"
@@ -163,15 +163,6 @@
          y="1222.3754"
          id="tspan25">voltmeter ammeter</tspan></text><text
        xml:space="preserve"
-       transform="matrix(0.23733488,0,0,0.23733488,63.602985,-252.46265)"
-       id="text4-0-4-3"
-       style="font-size:14.8641px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-5-7);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
-       x="-92.447014"
-       y="0"><tspan
-         x="151.18164"
-         y="1185.2153"
-         id="tspan26">not connected</tspan></text><text
-       xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,109.21121,-248.99182)"
        id="text4-0-4-3-8"
        style="font-size:14.8641px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-5-7-0);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
@@ -179,7 +170,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan27">-&gt; to the load</tspan></text><text
+         id="tspan26">-&gt; to the load</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,18.882881,-207.57434)"
        id="text4-0-1"
@@ -188,15 +179,15 @@
        y="0"><tspan
          x="213.61854"
          y="1185.2153"
-         id="tspan29"><tspan
+         id="tspan28"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan28">12V DC
+           id="tspan27">12V DC
 </tspan></tspan><tspan
          x="235.45019"
          y="1203.7953"
-         id="tspan31"><tspan
+         id="tspan30"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan30">10 A</tspan></tspan></text><text
+           id="tspan29">10 A</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,105.38574,-237.98393)"
        id="text4-0-1-7"
@@ -205,7 +196,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan32">+</tspan></text><text
+         id="tspan31">+</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,106.0434,-260.53081)"
        id="text4-0-1-7-1"
@@ -214,7 +205,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan33">-</tspan></text><image
+         id="tspan32">-</tspan></text><image
        width="73.63195"
        height="15.421628"
        preserveAspectRatio="none"
@@ -286,5 +277,9 @@
        x="6.966691"
        y="15.971789" /><path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
-       d="m 52.000001,26.999999 c 45,0 45,0 45,0"
-       id="path4" /></g></svg>
+       d="m 52.000001,26.999999 32.999995,0"
+       id="path4"
+       sodipodi:nodetypes="cc" /><path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+       d="M 84.999996,26.75 V 39.000001"
+       id="path6" /></g></svg>
