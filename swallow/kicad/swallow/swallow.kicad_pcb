@@ -9670,7 +9670,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Raspberry_Pi_2_3"
+		(property "Value" "Raspberry Pi 3/4 B"
 			(at -10.29 -4.51 180)
 			(layer "F.SilkS")
 			(uuid "fca7d967-47fe-4da3-b70a-f60ed8794a7e")
