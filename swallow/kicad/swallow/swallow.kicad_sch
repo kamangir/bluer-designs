@@ -3378,6 +3378,12 @@
 		(uuid "502225dd-04ec-4db3-8c4e-68b2f721ee64")
 	)
 	(junction
+		(at 137.16 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58f9f9a2-359e-49ef-91d6-d3f2b8733bcc")
+	)
+	(junction
 		(at 172.72 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3579,6 +3585,16 @@
 	)
 	(wire
 		(pts
+			(xy 35.56 106.68) (xy 44.45 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "007ddcbd-fa94-4962-9713-da7c14db8b53")
+	)
+	(wire
+		(pts
 			(xy 251.46 132.08) (xy 251.46 97.79)
 		)
 		(stroke
@@ -3756,6 +3772,16 @@
 			(type default)
 		)
 		(uuid "10f0cbc6-fc6d-462d-affe-99a8ef2c25b1")
+	)
+	(wire
+		(pts
+			(xy 44.45 177.8) (xy 137.16 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1288ae39-0a4f-4cda-9cf0-a7954b52859c")
 	)
 	(wire
 		(pts
@@ -4076,6 +4102,16 @@
 			(type default)
 		)
 		(uuid "33f2c268-aadc-4386-836d-b413d9bf336f")
+	)
+	(wire
+		(pts
+			(xy 44.45 106.68) (xy 44.45 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35be8113-3c6c-4c39-882d-916fcc6feabd")
 	)
 	(wire
 		(pts
@@ -4499,7 +4535,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 134.62) (xy 140.97 134.62)
+			(xy 121.92 134.62) (xy 137.16 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4739,6 +4775,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 134.62) (xy 140.97 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "775b4a4c-d681-4063-89a3-7e196387d5b3")
+	)
+	(wire
+		(pts
 			(xy 41.91 93.98) (xy 35.56 93.98)
 		)
 		(stroke
@@ -4746,6 +4792,16 @@
 			(type default)
 		)
 		(uuid "777e0e0d-8749-4434-b85a-564032c4fe09")
+	)
+	(wire
+		(pts
+			(xy 137.16 177.8) (xy 137.16 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a0fcd62-7c27-4977-bc92-e23456e6bd79")
 	)
 	(wire
 		(pts
@@ -6609,7 +6665,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 143.51 73.66 90)
+		(at 143.51 73.66 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6623,7 +6679,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "P6KE6.8A"
@@ -6632,11 +6688,11 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-15_P10.16mm_Horizontal"
-			(at 147.955 73.66 0)
+			(at 139.065 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
