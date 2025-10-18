@@ -1873,13 +1873,13 @@
 	(footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 		(layer "F.Cu")
 		(uuid "4431660f-17db-4402-887f-e5af957e5907")
-		(at 127.6 66.2 90)
+		(at 127.8 66.452651 90)
 		(descr "CP, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=12mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 3.50mm diameter 8mm height 12mm Electrolytic Capacitor")
 		(property "Reference" "C1"
 			(at 1.75 -2.3 90)
 			(layer "F.SilkS")
-			(uuid "d5c23e2e-52c8-4ea2-a8f0-2b30224731fe")
+			(uuid "281a3edc-4022-4d05-82c0-03c5dc40812e")
 			(effects
 				(font
 					(size 1 1)
@@ -1891,7 +1891,7 @@
 			(at 1.75 5.25 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b6140eb5-c303-4c6e-9450-4d1c740d6fc9")
+			(uuid "32baad7c-d883-43fa-864b-6227a8a5281d")
 			(effects
 				(font
 					(size 1 1)
@@ -1903,7 +1903,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c262bfcf-9113-4db4-9fc6-89294fd77e2e")
+			(uuid "46e5225a-1e9a-49a7-b0e8-4619ca4d3b76")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1915,7 +1915,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b35436f-d55a-45c7-892b-3d83a4bb211c")
+			(uuid "5e27afa1-4f1a-4666-ab46-ee070c498131")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4469,7 +4469,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "17e0e549-600d-4a64-8f91-ac3e14c0d98f")
+			(uuid "71eae6f1-3a83-4be5-b57f-7ec970a049cf")
 			(effects
 				(font
 					(size 1 1)
@@ -4482,7 +4482,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "717544e2-e773-485b-bb23-db6cccccbd55")
+			(uuid "805fbbe4-ccfc-4311-a26d-e14b0cb65dc0")
 			(effects
 				(font
 					(size 1 1)
@@ -4495,7 +4495,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d5dd833e-5a10-45cb-88da-837e8c71954d")
+			(uuid "946b5d77-50f6-4e16-be5d-15ce4ce22864")
 			(effects
 				(font
 					(size 1 1)
@@ -4508,7 +4508,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cebb4553-0fdb-4ddc-95df-a8349d39d8a9")
+			(uuid "0dc14ac3-80f8-4cf3-8caf-18472d4c5c89")
 			(effects
 				(font
 					(size 1 1)
