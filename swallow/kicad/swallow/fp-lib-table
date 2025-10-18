@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "orca")(type "KiCad")(uri "${KIPRJMOD}/orca.pretty")(options "")(descr ""))
+)
