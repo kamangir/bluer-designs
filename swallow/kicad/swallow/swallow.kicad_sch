@@ -6043,7 +6043,7 @@
 		)
 		(uuid "4e479ea8-aeb4-4cea-81e8-f730e03fb67d")
 	)
-	(label "v14"
+	(label "v15"
 		(at 267.97 194.31 0)
 		(effects
 			(font
@@ -6149,7 +6149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical"
 			(at 158.75 27.94 0)
 			(effects
 				(font
@@ -6591,7 +6591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical"
 			(at 161.29 149.86 0)
 			(effects
 				(font
