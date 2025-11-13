@@ -3,8 +3,8 @@
 
 <svg
    width="205mm"
-   height="500mm"
-   viewBox="0 0 205 500"
+   height="510mm"
+   viewBox="0 0 205 510"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
@@ -28,19 +28,19 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.42663175"
-     inkscape:cx="430.11332"
-     inkscape:cy="1614.9759"
-     inkscape:window-width="1352"
-     inkscape:window-height="815"
-     inkscape:window-x="0"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.67957407"
+     inkscape:cx="581.24642"
+     inkscape:cy="55.917378"
+     inkscape:window-width="1568"
+     inkscape:window-height="847"
+     inkscape:window-x="32"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"><inkscape:grid
        id="grid1"
        units="mm"
        originx="-1.8164981e-07"
-       originy="-25"
+       originy="-15"
        spacingx="0.99999998"
        spacingy="1"
        empcolor="#0099e5"
@@ -54,13 +54,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.0123887e-8,-25.000002)"><rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.353552;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="translate(-5.0123887e-8,-15.000002)"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.35707;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5"
        width="205"
-       height="500"
+       height="510"
        x="5.0123887e-08"
-       y="25.000002" /><g
+       y="15.000002" /><g
        id="g5-3"
        transform="translate(0.03400018,118.46366)"><rect
          style="fill:none;fill-opacity:0.471503;stroke:#000000;stroke-width:0.5;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0"
@@ -339,7 +339,7 @@
          id="tspan42"
          style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
          x="174.83133"
-         y="519.79657">revision 1.6.0</tspan></text><text
+         y="519.79657">revision 1.7.0</tspan></text><text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:normal;font-family:sans-serif;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0"
        x="85"
@@ -350,6 +350,16 @@
          style="text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
          x="85"
          y="35.000004">time_ms = 2 * distance_mm / 343 </tspan></text><text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:normal;font-family:sans-serif;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0"
+       x="15"
+       y="25.000002"
+       id="text1-1-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-4-7-4"
+         style="font-size:6.35px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+         x="15"
+         y="25.000002">ultrasonic sensors: geometry design</tspan></text><text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:normal;font-family:sans-serif;text-align:end;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;fill-opacity:1;stroke:#0000ff;stroke-width:0.25;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.494118"
        x="100.04553"
@@ -877,7 +887,7 @@
          x="114.34949"
          y="88.799881"
          id="tspan13">325 mm</tspan></text><path
-       style="fill:#000000;stroke:#008000;stroke-width:1;stroke-miterlimit:2;stroke-dasharray:5.99999189, 1;stroke-dashoffset:0"
+       style="fill:#000000;stroke:#008000;stroke-width:1;stroke-miterlimit:2;stroke-dasharray:5.99999, 1;stroke-dashoffset:0"
        d="M 130.32516,50.177922 V 515.17792"
        id="path5-95-8-8-6-3" /><text
        xml:space="preserve"
