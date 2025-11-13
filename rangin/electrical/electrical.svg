@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.63305128"
-     inkscape:cx="552.08798"
-     inkscape:cy="652.39581"
+     inkscape:zoom="1.1096431"
+     inkscape:cx="347.40899"
+     inkscape:cy="228.00123"
      inkscape:window-width="1584"
      inkscape:window-height="847"
      inkscape:window-x="31"
@@ -140,7 +140,17 @@
        y="1077.1653"
        width="179.91695"
        height="62.368183"
-       id="rect2-9-4-3-9" /></defs><g
+       id="rect2-9-4-3-9" /><rect
+       x="151.18111"
+       y="1171.6534"
+       width="118.55599"
+       height="93.686806"
+       id="rect4-3-2-5" /><rect
+       x="151.18111"
+       y="1171.6534"
+       width="294.94241"
+       height="34.629165"
+       id="rect4-3-2-5-3" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -264,7 +274,7 @@
        style="font-size:12.6985px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9-4-7-8);display:inline;fill:#000000;stroke:#000000;stroke-width:1.07987;stroke-miterlimit:2;stroke-dasharray:none"><tspan
          x="231.71651"
          y="1088.7512"
-         id="tspan27">revision 1.1.1</tspan></text><text
+         id="tspan27">revision 1.2.1</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,15.832162,-78.524662)"
        id="text4-0-1"
@@ -283,6 +293,28 @@
            style="text-align:end;text-anchor:end"
            id="tspan30">60 - 100 A</tspan></tspan></text><text
        xml:space="preserve"
+       transform="matrix(0.23733488,0,0,0.23733488,63.478624,-120.90602)"
+       id="text4-0-1-7"
+       style="font-size:14.8641px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-2-5);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
+       x="119.14868"
+       y="0"><tspan
+         x="151.18164"
+         y="1185.2153"
+         id="tspan32">AWG 6
+</tspan><tspan
+         x="151.18164"
+         y="1203.7953"
+         id="tspan33">13.3 mm²</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.23733488,0,0,0.23733488,104.11932,-99.705423)"
+       id="text4-0-1-7-5"
+       style="font-size:14.8641px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-2-5-3);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
+       x="119.14868"
+       y="0"><tspan
+         x="151.18164"
+         y="1185.2153"
+         id="tspan34">AWG 18–17: 0.75–1.0 mm²</tspan></text><text
+       xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,65.594407,-58.445425)"
        id="text4-0-1-9"
        style="font-size:14.8641px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-2-4);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
@@ -290,14 +322,14 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan32">DC fuse, ANL </tspan><tspan
+         id="tspan35">DC fuse, ANL </tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan33">or MIDI type
+         id="tspan36">or MIDI type
 </tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan34">40 A
+         id="tspan37">40 A
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,-2.7893339,-36.29293)"
@@ -307,15 +339,15 @@
        y="0"><tspan
          x="263.23974"
          y="1185.2153"
-         id="tspan36"><tspan
+         id="tspan39"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan35">emergency stop
+           id="tspan38">emergency stop
 </tspan></tspan><tspan
          x="169.30124"
          y="1203.7953"
-         id="tspan38"><tspan
+         id="tspan41"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan37">100 A DC or relay-controlled</tspan></tspan></text><text
+           id="tspan40">100 A DC or relay-controlled</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,-26.209543,-12.412156)"
        id="text4-0"
@@ -324,7 +356,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan39">12V DC, 1 A</tspan></text><path
+         id="tspan42">12V DC, 1 A</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none"
        d="m 90.683631,275 v -86.89165 0"
        id="path37"
@@ -410,15 +442,15 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan40">DC voltmeter ammeter
+         id="tspan43">DC voltmeter ammeter
 </tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan41">panel mount
+         id="tspan44">panel mount
 </tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan42">0 - 50 V, 0 - 50 A
+         id="tspan45">0 - 50 V, 0 - 50 A
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,109.03334,-31.475134)"
@@ -428,15 +460,15 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan43">AC voltmeter ammeter
+         id="tspan46">AC voltmeter ammeter
 </tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan44">panel mount
+         id="tspan47">panel mount
 </tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan45">220 V, 5 A</tspan></text><path
+         id="tspan48">220 V, 5 A</tspan></text><path
        style="fill:#008000;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        d="M 55.000001,188.99999 H 90.251603"
        id="path1"
@@ -571,7 +603,7 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan46">top, left</tspan></text><text
+         id="tspan49">top, left</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,123.52934,-246.40801)"
        id="text2-1-46-8-4-59-2"
@@ -580,7 +612,7 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan47">top, right</tspan></text><image
+         id="tspan50">top, right</tspan></text><image
        width="34.999992"
        height="34.999992"
        preserveAspectRatio="none"
