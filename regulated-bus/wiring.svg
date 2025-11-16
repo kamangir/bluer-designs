@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.0556076"
-     inkscape:cx="302.66929"
+     inkscape:cx="303.61661"
      inkscape:cy="249.14561"
      inkscape:window-width="1568"
      inkscape:window-height="847"
@@ -115,7 +115,12 @@
        y="1171.6534"
        width="147.47147"
        height="97.830978"
-       id="rect4-3-2-6-5-4" /></defs><g
+       id="rect4-3-2-6-5-4" /><rect
+       x="151.18111"
+       y="1171.6534"
+       width="190.99171"
+       height="89.854424"
+       id="rect4-3-5-74" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -146,7 +151,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan9">12V DC, 1 A</tspan></text><text
+         id="tspan2">12V DC, 1 A</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,-27.397017,-231.1085)"
        id="text4-0-4"
@@ -155,13 +160,16 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan10">DSN-VC288, panel </tspan><tspan
+         id="tspan3">DC voltmeter ammeter
+</tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan11">mount DC 100V 10A </tspan><tspan
+         id="tspan4">panel mount
+</tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan13">voltmeter ammeter</tspan></text><text
+         id="tspan11">4-30 VDC, 10A
+</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,73.790451,-261.50149)"
        id="text4-0-1-2"
@@ -170,7 +178,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan14">18 AWG</tspan></text><text
+         id="tspan13">18 AWG</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,39.05917,-156.50149)"
        id="text4-0-1-2-4"
@@ -179,7 +187,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan15">8 - 36 VDC</tspan></text><text
+         id="tspan14">8 - 36 VDC</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,86.423576,-249.05383)"
        id="text4-0-1-2-4-6"
@@ -188,7 +196,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan16">1.25 - 32 VDC, 5A</tspan></text><text
+         id="tspan15">1.25 - 32 VDC, 5A</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,105.38574,-237.98393)"
        id="text4-0-1-7"
@@ -197,7 +205,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan17">+</tspan></text><text
+         id="tspan16">+</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,106.0434,-260.53081)"
        id="text4-0-1-7-1"
@@ -206,7 +214,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan18">-</tspan></text><image
+         id="tspan17">-</tspan></text><image
        width="73.63195"
        height="15.421628"
        preserveAspectRatio="none"
@@ -224,7 +232,7 @@
          style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
          x="149.83133"
          y="127.76654"
-         dx="0 0 0 0 0 0 0 0 0 0 0">revision 3.2.1</tspan></text><path
+         dx="0 0 0 0 0 0 0 0 0 0 0">revision 3.5.1</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none"
        d="m 105.76592,59.974346 v -13.94869 l -21.529158,-0.02566 v -7"
        id="path37"
@@ -283,7 +291,7 @@
          style="font-size:12.3366px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9);display:inline;fill:#000000;stroke:#000000;stroke-width:1.04909;stroke-miterlimit:2;stroke-dasharray:none"><tspan
            x="250.67066"
            y="1088.4211"
-           id="tspan19">XL4015</tspan></text></g><text
+           id="tspan18">XL4015</tspan></text></g><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,9.999999)"
        id="text1"
@@ -300,7 +308,24 @@
        style="fill:#008000;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        d="m 140.57358,22.829158 h 12.49999"
        id="path2-8-6"
-       sodipodi:nodetypes="cc" /><path
+       sodipodi:nodetypes="cc" /><text
+       xml:space="preserve"
+       transform="matrix(0.23733488,0,0,0.23733488,91.454994,-203.86772)"
+       id="text4-0-4-2"
+       style="font-size:26.7554px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-5-74);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
+       x="-29.895817"
+       y="0"><tspan
+         x="182.91712"
+         y="1196.0641"
+         id="tspan20"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan19">regulated
+</tspan></tspan><tspan
+         x="222.90652"
+         y="1229.5083"
+         id="tspan22"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan21">bus</tspan></tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;paint-order:markers fill stroke"
        d="m 105.76592,46.025655 15.23407,-0.02565"
        id="path11"
@@ -339,4 +364,4 @@
        id="text12"><tspan
          sodipodi:role="line"
          id="tspan12"
-         style="stroke-width:2"></tspan></text></g></svg>
+         style="stroke-width:2" /></text></g></svg>

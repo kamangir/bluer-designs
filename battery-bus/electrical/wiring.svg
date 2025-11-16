@@ -29,13 +29,13 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.011004"
-     inkscape:cx="363.50004"
+     inkscape:cx="363.50005"
      inkscape:cy="240.35513"
-     inkscape:window-width="1352"
-     inkscape:window-height="815"
-     inkscape:window-x="0"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1584"
+     inkscape:window-height="847"
+     inkscape:window-x="16"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"><inkscape:grid
        id="grid1"
        units="mm"
@@ -95,7 +95,12 @@
        y="1171.6534"
        width="118.55599"
        height="93.686806"
-       id="rect4-3-2-6" /></defs><g
+       id="rect4-3-2-6" /><rect
+       x="151.18111"
+       y="1171.6534"
+       width="190.99171"
+       height="89.854424"
+       id="rect4-3-5-74" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -122,27 +127,27 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan15"><tspan
+         id="tspan11"><tspan
            style="text-align:start"
-           id="tspan14">Rechargeable
+           id="tspan10">Rechargeable
 </tspan></tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan17"><tspan
+         id="tspan21"><tspan
            style="text-align:start"
-           id="tspan16">sealed lead
+           id="tspan12">sealed lead
 </tspan></tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan19"><tspan
+         id="tspan23"><tspan
            style="text-align:start"
-           id="tspan18">acid battery,
+           id="tspan22">acid battery,
 </tspan></tspan><tspan
          x="151.18164"
          y="1240.9555"
-         id="tspan21"><tspan
+         id="tspan25"><tspan
            style="text-align:start"
-           id="tspan20">12 V, 7 Ah</tspan></tspan></text><text
+           id="tspan24">12 V, 7 Ah</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,-26.12927,-175.57899)"
        id="text4-0"
@@ -151,7 +156,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan22">12V DC, 1 A</tspan></text><text
+         id="tspan26">12V DC, 1 A</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,-27.397017,-231.1085)"
        id="text4-0-4"
@@ -160,13 +165,16 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan23">DSN-VC288, panel </tspan><tspan
+         id="tspan27">DC voltmeter ammeter
+</tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan24">mount DC 100V 10A </tspan><tspan
+         id="tspan28">panel mount
+</tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan25">voltmeter ammeter</tspan></text><text
+         id="tspan29">4-30 VDC, 10A
+</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,109.21121,-248.99182)"
        id="text4-0-4-3-8"
@@ -175,7 +183,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan26">-&gt; to the load</tspan></text><text
+         id="tspan30">-&gt; to the load</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,18.882881,-207.57434)"
        id="text4-0-1"
@@ -184,15 +192,15 @@
        y="0"><tspan
          x="213.61854"
          y="1185.2153"
-         id="tspan28"><tspan
+         id="tspan32"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan27">12V DC
+           id="tspan31">12V DC
 </tspan></tspan><tspan
          x="235.45019"
          y="1203.7953"
-         id="tspan30"><tspan
+         id="tspan34"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan29">10 A</tspan></tspan></text><text
+           id="tspan33">10 A</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,73.790451,-261.50149)"
        id="text4-0-1-2"
@@ -201,7 +209,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan31">18 AWG</tspan></text><text
+         id="tspan35">18 AWG</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,105.38574,-237.98393)"
        id="text4-0-1-7"
@@ -210,7 +218,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan32">+</tspan></text><text
+         id="tspan36">+</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,106.0434,-260.53081)"
        id="text4-0-1-7-1"
@@ -219,7 +227,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan33">-</tspan></text><image
+         id="tspan37">-</tspan></text><image
        width="73.63195"
        height="15.421628"
        preserveAspectRatio="none"
@@ -244,7 +252,7 @@
          id="tspan42"
          style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
          x="149.83133"
-         y="127.76654">revision 1.3.0</tspan></text><path
+         y="127.76654">revision 1.6.0</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none"
        d="m 91.501189,99.192668 -10e-7,-61 v 0"
        id="path37"
@@ -296,4 +304,13 @@
        sodipodi:nodetypes="cc" /><path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        d="M 84.999996,26.75 V 39.000001"
-       id="path6" /></g></svg>
+       id="path6" /><text
+       xml:space="preserve"
+       transform="matrix(0.23733488,0,0,0.23733488,78.946858,-210.29516)"
+       id="text4-0-4-2"
+       style="font-size:26.7554px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-5-74);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
+       x="-92.447014"
+       y="0"><tspan
+         x="151.18164"
+         y="1196.0641"
+         id="tspan38">battery bus</tspan></text></g></svg>

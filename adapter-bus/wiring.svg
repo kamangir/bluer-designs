@@ -30,12 +30,12 @@
      showgrid="true"
      inkscape:zoom="1.1064598"
      inkscape:cx="345.69715"
-     inkscape:cy="227.75342"
-     inkscape:window-width="1352"
-     inkscape:window-height="815"
-     inkscape:window-x="0"
-     inkscape:window-y="35"
-     inkscape:window-maximized="1"
+     inkscape:cy="228.6572"
+     inkscape:window-width="1568"
+     inkscape:window-height="847"
+     inkscape:window-x="32"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1"><inkscape:grid
        id="grid1"
        units="mm"
@@ -95,7 +95,12 @@
        y="1171.6534"
        width="118.55599"
        height="93.686806"
-       id="rect4-3-2-6" /></defs><g
+       id="rect4-3-2-6" /><rect
+       x="151.18111"
+       y="1171.6534"
+       width="190.99171"
+       height="89.854424"
+       id="rect4-3-5-74" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -143,13 +148,25 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan2">DSN-VC288, panel </tspan><tspan
+         id="tspan2">DC voltmeter ammeter
+</tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan3">mount DC 100V 10A </tspan><tspan
+         id="tspan3">panel mount
+</tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan4">voltmeter ammeter</tspan></text><text
+         id="tspan4">4-30 VDC, 10A
+</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.23733488,0,0,0.23733488,-26.053137,-155.29516)"
+       id="text4-0-4-2"
+       style="font-size:26.7554px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4-3-5-74);display:inline;fill:#000000;stroke:#000000;stroke-width:1.26404;stroke-miterlimit:2;stroke-dasharray:none"
+       x="-92.447014"
+       y="0"><tspan
+         x="151.18164"
+         y="1196.0641"
+         id="tspan5">adapter bus</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,73.790451,-261.50149)"
        id="text4-0-1-2"
@@ -158,7 +175,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan5">18 AWG</tspan></text><text
+         id="tspan6">18 AWG</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,105.38574,-237.98393)"
        id="text4-0-1-7"
@@ -167,7 +184,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan6">+</tspan></text><text
+         id="tspan7">+</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,106.0434,-260.53081)"
        id="text4-0-1-7-1"
@@ -176,7 +193,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan7">-</tspan></text><image
+         id="tspan8">-</tspan></text><image
        width="73.63195"
        height="15.421628"
        preserveAspectRatio="none"
@@ -194,7 +211,7 @@
          id="tspan42"
          style="fill:#000000;stroke:#000000;stroke-width:0.3;stroke-dasharray:none"
          x="149.83133"
-         y="127.76654">revision 2.2.0</tspan></text><path
+         y="127.76654">revision 2.5.0</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none"
        d="m 91.501189,60.000001 -10e-7,-21.897379 v 0"
        id="path37"
@@ -208,8 +225,9 @@
        id="path1"
        sodipodi:nodetypes="cc" /><path
        style="fill:#008000;stroke:#ff0000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
-       d="m 95.692836,39.055194 c 48.307164,0 48.307164,0 48.307164,0"
-       id="path2" /><path
+       d="M 95.692836,39.055194 H 144"
+       id="path2"
+       sodipodi:nodetypes="cc" /><path
        style="fill:#008000;stroke:#ff0000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        d="M 50.000001,22.829158 H 135"
        id="path2-8"
@@ -234,9 +252,10 @@
        x="6.966691"
        y="15.971789" /><path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
-       d="m 52.000001,26.999999 32.999995,0"
+       d="M 52.000001,26.999999 H 84.999996"
        id="path4"
        sodipodi:nodetypes="cc" /><path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        d="M 84.999996,26.75 V 39.000001"
-       id="path6" /></g></svg>
+       id="path6"
+       sodipodi:nodetypes="cc" /></g></svg>
