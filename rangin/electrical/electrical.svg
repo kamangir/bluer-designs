@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.92215301"
-     inkscape:cx="445.15389"
-     inkscape:cy="541.12495"
+     inkscape:zoom="0.99310696"
+     inkscape:cx="433.48805"
+     inkscape:cy="282.95039"
      inkscape:window-width="1584"
      inkscape:window-height="847"
      inkscape:window-x="31"
@@ -155,7 +155,27 @@
        y="1171.6534"
        width="190.99171"
        height="89.854424"
-       id="rect4-3-5-74" /></defs><g
+       id="rect4-3-5-74" /><rect
+       x="151.18111"
+       y="1077.1653"
+       width="179.91695"
+       height="62.368183"
+       id="rect2-9-4-3-3-9-1-7" /><rect
+       x="151.18111"
+       y="1077.1653"
+       width="179.91695"
+       height="62.368183"
+       id="rect2-9-4-3-3-9-1-7-3" /><rect
+       x="151.18111"
+       y="1077.1653"
+       width="179.91695"
+       height="62.368183"
+       id="rect2-9-4-3-3-9-1-7-3-9" /><rect
+       x="151.18111"
+       y="1077.1653"
+       width="179.91695"
+       height="62.368183"
+       id="rect2-9-4-3-3-9-1-7-3-9-5" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
@@ -186,26 +206,26 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan2"><tspan
+         id="tspan7"><tspan
            style="text-align:start"
-           id="tspan1">power inverter
+           id="tspan4">power inverter
 </tspan></tspan><tspan
          x="151.18164"
          y="1104.6244"
-         id="tspan4"><tspan
+         id="tspan52"><tspan
            style="text-align:start"
-           id="tspan3">12 VDC -&gt; 220 VAC
+           id="tspan9">12 VDC -&gt; 220 VAC
 </tspan></tspan><tspan
          x="151.18164"
          y="1120.4976"
-         id="tspan9"><tspan
+         id="tspan54"><tspan
            style="text-align:start"
-           id="tspan7">continuous output ≥ 400-500 W, </tspan></tspan><tspan
+           id="tspan53">continuous output ≥ 400-500 W, </tspan></tspan><tspan
          x="151.18164"
          y="1136.3707"
-         id="tspan53"><tspan
+         id="tspan56"><tspan
            style="text-align:start"
-           id="tspan52">surge output ≥ 800 W</tspan></tspan></text><text
+           id="tspan55">surge output ≥ 800 W</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,103.01754,-144.14526)"
        id="text2-1-46-8"
@@ -214,11 +234,11 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan54">miniature circuit breaker
+         id="tspan57">miniature circuit breaker
 </tspan><tspan
          x="151.18164"
          y="1104.6244"
-         id="tspan55">2 - 3 A @ 220 V AC 
+         id="tspan58">2 - 3 A @ 220 V AC 
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,112.87284,-109.63608)"
@@ -228,14 +248,14 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan56">residual current device </tspan><tspan
+         id="tspan59">residual current device </tspan><tspan
          x="151.18164"
          y="1104.6244"
-         id="tspan57">(RCD / GFCI)
+         id="tspan60">(RCD / GFCI)
 </tspan><tspan
          x="151.18164"
          y="1120.4976"
-         id="tspan58">30 mA trip
+         id="tspan61">30 mA trip
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,-36.116021,-248.19892)"
@@ -245,11 +265,11 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan59">front
+         id="tspan62">front
 </tspan><tspan
          x="151.18164"
          y="1104.6244"
-         id="tspan60">swallow</tspan></text><text
+         id="tspan63">swallow</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,16.941841,-247.99552)"
        id="text2-1-46-8-4-5"
@@ -258,11 +278,11 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan61">back
+         id="tspan64">back
 </tspan><tspan
          x="151.18164"
          y="1104.6244"
-         id="tspan62">swallow-head computer</tspan></text><text
+         id="tspan65">swallow-head computer</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,153.27172,-31.136037)"
        id="text2-1-46-0"
@@ -271,23 +291,23 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan64"><tspan
+         id="tspan67"><tspan
            style="text-align:start"
-           id="tspan63">40 inch x 2</tspan></tspan></text><text
+           id="tspan66">40 inch x 2</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,6.0838544,3.9378077)"
        id="text2-1-46-7"
        style="font-size:12.6985px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9-4-7);display:inline;fill:#000000;stroke:#000000;stroke-width:1.07987;stroke-miterlimit:2;stroke-dasharray:none"><tspan
          x="171.84197"
          y="1088.7512"
-         id="tspan65">12 V, 74 Ah x hours of operation</tspan></text><text
+         id="tspan68">12 V, 74 Ah x hours of operation</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,127.1422,11.821141)"
        id="text2-1-46-7-6"
        style="font-size:12.6985px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9-4-7-8);display:inline;fill:#000000;stroke:#000000;stroke-width:1.07987;stroke-miterlimit:2;stroke-dasharray:none"><tspan
          x="231.71651"
          y="1088.7512"
-         id="tspan66">revision 1.6.1</tspan></text><text
+         id="tspan69">revision 1.6.1</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,18.588334,-76.303992)"
        id="text4-0-1"
@@ -296,15 +316,15 @@
        y="0"><tspan
          x="213.61854"
          y="1185.2153"
-         id="tspan68"><tspan
+         id="tspan71"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan67">12 VDC
+           id="tspan70">12 VDC
 </tspan></tspan><tspan
          x="189.89985"
          y="1203.7953"
-         id="tspan70"><tspan
+         id="tspan73"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan69">60 - 100 A</tspan></tspan></text><text
+           id="tspan72">60 - 100 A</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,63.478624,-120.90602)"
        id="text4-0-1-7"
@@ -313,11 +333,11 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan71">AWG 6
+         id="tspan74">AWG 6
 </tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan72">13.3 mm²</tspan></text><text
+         id="tspan75">13.3 mm²</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,104.11932,-99.705423)"
        id="text4-0-1-7-5"
@@ -326,7 +346,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan73">AWG 18–17: 0.75–1.0 mm²</tspan></text><text
+         id="tspan76">AWG 18–17: 0.75–1.0 mm²</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,65.594407,-58.445425)"
        id="text4-0-1-9"
@@ -335,14 +355,14 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan74">DC fuse, ANL </tspan><tspan
+         id="tspan77">DC fuse, ANL </tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan75">or MIDI type
+         id="tspan78">or MIDI type
 </tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan76">40 A
+         id="tspan79">40 A
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,-2.7893339,-36.29293)"
@@ -352,15 +372,15 @@
        y="0"><tspan
          x="263.23974"
          y="1185.2153"
-         id="tspan78"><tspan
+         id="tspan81"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan77">emergency stop
+           id="tspan80">emergency stop
 </tspan></tspan><tspan
          x="169.30124"
          y="1203.7953"
-         id="tspan80"><tspan
+         id="tspan83"><tspan
            style="text-align:end;text-anchor:end"
-           id="tspan79">100 A DC or relay-controlled</tspan></tspan></text><text
+           id="tspan82">100 A DC or relay-controlled</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,-26.209543,-12.412156)"
        id="text4-0"
@@ -369,7 +389,7 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan81">12V DC, 1 A</tspan></text><path
+         id="tspan84">12V DC, 1 A</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none"
        d="m 90.683631,275 v -86.89165 0"
        id="path37"
@@ -455,15 +475,15 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan82">DC voltmeter ammeter
+         id="tspan85">DC voltmeter ammeter
 </tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan83">panel mount
+         id="tspan86">panel mount
 </tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan84">4-30 VDC, 10A
+         id="tspan87">4-30 VDC, 10A
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.23733488,0,0,0.23733488,109.03334,-31.475134)"
@@ -473,15 +493,15 @@
        y="0"><tspan
          x="151.18164"
          y="1185.2153"
-         id="tspan85">AC voltmeter ammeter
+         id="tspan88">AC voltmeter ammeter
 </tspan><tspan
          x="151.18164"
          y="1203.7953"
-         id="tspan86">panel mount
+         id="tspan89">panel mount
 </tspan><tspan
          x="151.18164"
          y="1222.3754"
-         id="tspan87">220 V, 5 A</tspan></text><path
+         id="tspan90">220 V, 5 A</tspan></text><path
        style="fill:#008000;stroke:#000000;stroke-width:2;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
        d="M 55.000001,188.99999 H 90.251603"
        id="path1"
@@ -616,11 +636,11 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan88">top, left
+         id="tspan91">top, left
 </tspan><tspan
          x="151.18164"
          y="1104.6244"
-         id="tspan89">swallow-head computer</tspan></text><text
+         id="tspan92">swallow-head computer</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.27781034,0,0,0.27781034,123.52934,-248.52469)"
        id="text2-1-46-8-4-59-2"
@@ -629,11 +649,47 @@
        y="0"><tspan
          x="151.18164"
          y="1088.7512"
-         id="tspan90">top, right
+         id="tspan93">top, right
 </tspan><tspan
          x="151.18164"
          y="1104.6244"
-         id="tspan91">swallow-head computer</tspan></text><image
+         id="tspan94">swallow-head computer</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.27781034,0,0,0.27781034,162.6713,-194.69981)"
+       id="text2-1-46-8-4-59-2-1"
+       style="font-size:12.6985px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9-4-3-3-9-1-7);display:inline;fill:#000000;stroke:#000000;stroke-width:1.07987;stroke-miterlimit:2;stroke-dasharray:none"
+       x="-175.57474"
+       y="0"><tspan
+         x="151.18164"
+         y="1088.7512"
+         id="tspan95">10 W</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.27781034,0,0,0.27781034,109.78798,-194.25726)"
+       id="text2-1-46-8-4-59-2-1-9"
+       style="font-size:12.6985px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9-4-3-3-9-1-7-3);display:inline;fill:#000000;stroke:#000000;stroke-width:1.07987;stroke-miterlimit:2;stroke-dasharray:none"
+       x="-175.57474"
+       y="0"><tspan
+         x="151.18164"
+         y="1088.7512"
+         id="tspan96">10 W</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.27781034,0,0,0.27781034,56.612971,-194.17064)"
+       id="text2-1-46-8-4-59-2-1-9-1"
+       style="font-size:12.6985px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9-4-3-3-9-1-7-3-9);display:inline;fill:#000000;stroke:#000000;stroke-width:1.07987;stroke-miterlimit:2;stroke-dasharray:none"
+       x="-175.57474"
+       y="0"><tspan
+         x="151.18164"
+         y="1088.7512"
+         id="tspan97">10 W</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.27781034,0,0,0.27781034,0.81317313,-194.36914)"
+       id="text2-1-46-8-4-59-2-1-9-1-7"
+       style="font-size:12.6985px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-9-4-3-3-9-1-7-3-9-5);display:inline;fill:#000000;stroke:#000000;stroke-width:1.07987;stroke-miterlimit:2;stroke-dasharray:none"
+       x="-175.57474"
+       y="0"><tspan
+         x="151.18164"
+         y="1088.7512"
+         id="tspan98">110 W</tspan></text><image
        width="34.999992"
        height="34.999992"
        preserveAspectRatio="none"
@@ -660,4 +716,14 @@
        y="0"><tspan
          x="151.18164"
          y="1196.0641"
-         id="tspan92">rangin</tspan></text></g></svg>
+         id="tspan99">rangin</tspan></text><text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:normal;font-family:sans-serif;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#1a1a1a;stroke-width:2;stroke-miterlimit:2;paint-order:markers fill stroke"
+       x="49.999996"
+       y="106"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:2"
+         x="49.999996"
+         y="106" /></text></g></svg>
