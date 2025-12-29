@@ -9914,7 +9914,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Raspberry_Pi_2_3"
+		(property "Value" "Raspberry Pi: 0, 3, 4 or 5"
 			(at -10.29 -4.51 180)
 			(layer "F.SilkS")
 			(uuid "fca7d967-47fe-4da3-b70a-f60ed8794a7e")
@@ -10785,7 +10785,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "swallow - v16\nKarband / Kamangir"
+	(gr_text "swallow - v17\nKarband / Kamangir"
 		(at 158.6 63.1 0)
 		(layer "F.SilkS")
 		(uuid "b8f975f0-19b3-4934-9bf7-2e4413dfa25b")
